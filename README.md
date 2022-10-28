@@ -2,7 +2,7 @@
 
 ## :mortar_board: Junior Full-Stack Web Developer
 
-## :blue_book: Introduction
+## :books: Introduction
 
 Hi, thanks for checking out my profile on GitHub. My name is Simon and I am a junior
 full-stack web developer with over a year of experience. I am certified in
@@ -28,6 +28,9 @@ I am confident in my skills as a leader and follower.
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=ECF0F1&labelColor=25373D&label=&message=REACT&color=ECF0F1"/>
     </a>
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://img.shields.io/static/v1?&style=flat&logo=nextdotjs&logoColor=ECF0F1&labelColor=25373D&label=&message=NEXTJS&color=ECF0F1"/>
+    </a>
     <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=ECF0F1&labelColor=25373D&label=&message=BOOTSTRAP&color=ECF0F1"/>
     </a>
@@ -44,6 +47,9 @@ I am confident in my skills as a leader and follower.
     </a>
     <a href="https://www.heroku.com/platform" target="_blank">
         <img src="https://img.shields.io/static/v1?&style=flat&logo=heroku&logoColor=ECF0F1&labelColor=25373D&label=&message=HEROKU&color=ECF0F1"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=ECF0F1&labelColor=25373D&label=&message=GIT&color=ECF0F1"/>
     </a>
 </div>
 
@@ -67,10 +73,11 @@ I am confident in my skills as a leader and follower.
 ### Software
 
 <div style="display: flex; flex-direction: row;">
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=ECF0F1&labelColor=25373D&label=&message=GIT&color=ECF0F1"/>
-        <a href="https://code.visualstudio.com/" target="_blank">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/static/v1?&style=flat&logo=visualstudiocode&logoColor=ECF0F1&labelColor=25373D&label=&message=VSCODE&color=ECF0F1"/>
+    </a>
+    <a href="https://slack.com/" target="_blank">
+        <img src="https://img.shields.io/static/v1?&style=flat&logo=slack&logoColor=ECF0F1&labelColor=25373D&label=&message=SLACK&color=ECF0F1"/>
     </a>
     </a>
         <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line" target="_blank">
@@ -84,13 +91,13 @@ I am confident in my skills as a leader and follower.
     </a>
 </div>
 
-## :clipboard: GitHub Statistics
+## :chart_with_upwards_trend: GitHub Statistics
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonanewton&custom_title=Simon+Newton&hide=issues,contribs&count_private=true&show_icons=true&theme=github_dark" alt="Simon Newton's GitHub Stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl,astro,rust,go&layout=compact&theme=github_dark" alt="Simon Newton's Most Used Languages" />
 </div>
 
-## :inbox_tray: Contact Me
+## :mailbox: Contact Me
 
 <div style="display: flex; flex-direction: row;">
     <a href="" target="_blank">
