@@ -24,11 +24,11 @@ Hi, thanks for checking out my profile on GitHub! I'm a Full-Stack Web Developer
 <div style="display: flex; flex-direction: row;">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=typescript&logoColor=ECF0F1&labelColor=25373D&label=&message=TYPESCRIPT&color=ECF0F1"/></a>&nbsp;
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=nextdotjs&logoColor=ECF0F1&labelColor=25373D&label=&message=NEXTJS&color=ECF0F1"/></a>&nbsp;
-    <a href="https://nodejs.dev/en/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=nodedotjs&logoColor=ECF0F1&labelColor=25373D&label=&message=NODE&color=ECF0F1"/></a>&nbsp;
-    <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=npm&logoColor=ECF0F1&labelColor=25373D&label=&message=NPM&color=ECF0F1"/></a>&nbsp;
+    <a href="https://nodejs.dev/en/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=nodedotjs&logoColor=ECF0F1&labelColor=25373D&label=&message=NODEJS&color=ECF0F1"/></a>&nbsp;
     <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=express&logoColor=ECF0F1&labelColor=25373D&label=&message=EXPRESS&color=ECF0F1"/></a>&nbsp;
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=ECF0F1&labelColor=25373D&label=&message=GIT&color=ECF0F1"/></a>&nbsp;
-    <a href="https://www.heroku.com/platform" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=heroku&logoColor=ECF0F1&labelColor=25373D&label=&message=HEROKU&color=ECF0F1"/></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=npm&logoColor=ECF0F1&labelColor=25373D&label=&message=NPM&color=ECF0F1"/></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=anydesk&logoColor=ECF0F1&labelColor=25373D&label=&message=BASH&color=ECF0F1"/></a>
 </div>
 
 ### Database & API
@@ -44,8 +44,8 @@ Hi, thanks for checking out my profile on GitHub! I'm a Full-Stack Web Developer
 
 <div style="display: flex; flex-direction: row;">
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=anydesk&logoColor=ECF0F1&labelColor=25373D&label=&message=VSCODE&color=ECF0F1"/></a>&nbsp;
+    <a href="https://www.heroku.com/platform" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=heroku&logoColor=ECF0F1&labelColor=25373D&label=&message=HEROKU&color=ECF0F1"/></a>&nbsp;
     <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=slack&logoColor=ECF0F1&labelColor=25373D&label=&message=SLACK&color=ECF0F1"/></a>&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=anydesk&logoColor=ECF0F1&labelColor=25373D&label=&message=BASH&color=ECF0F1"/></a>&nbsp;
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=anydesk&logoColor=ECF0F1&labelColor=25373D&label=&message=WINDOWS&color=ECF0F1"/></a>&nbsp;
     <a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=apple&logoColor=ECF0F1&labelColor=25373D&label=&message=MACOS&color=ECF0F1"/></a>
 </div>
@@ -67,5 +67,5 @@ Hi, thanks for checking out my profile on GitHub! I'm a Full-Stack Web Developer
     <a href="https://www.linkedin.com/in/simonanewtondev/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=gmail&logoColor=ECF0F1&labelColor=25373D&label=&message=EMAIL&color=ECF0F1"/></a>&nbsp;
     <a href="https://www.linkedin.com/in/simonanewtondev/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=linkedin&logoColor=ECF0F1&labelColor=25373D&label=&message=LINKEDIN&color=ECF0F1"/></a>&nbsp;
     <a href="https://github.com/simonanewton" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=github&logoColor=ECF0F1&labelColor=25373D&label=&message=GITHUB&color=ECF0F1"/></a>&nbsp;
-    <a href="https://developer-portfolio-yqdu.onrender.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=render&logoColor=ECF0F1&labelColor=25373D&label=&message=WEBSITE&color=ECF0F1"/></a>
+    <a href="https://developer-portfolio-yqdu.onrender.com/" target="_blank"><img src="https://img.shields.io/static/v1?&style=flat&logo=render&logoColor=ECF0F1&labelColor=25373D&label=&message=PORTFOLIO&color=ECF0F1"/></a>
 </div>
